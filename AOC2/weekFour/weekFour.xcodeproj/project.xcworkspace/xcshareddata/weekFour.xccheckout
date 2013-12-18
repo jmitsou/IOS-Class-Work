@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>48AEA295-F764-47F6-82DC-FAF7C2F0A9ED</string>
+	<key>IDESourceControlProjectName</key>
+	<string>weekFour</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>AE3ADC42-BF68-4E19-9FD0-BEC072B070BA</key>
+		<string>https://github.com/tenju88/MDV-Projects.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>AOC2/weekFour/weekFour.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>AE3ADC42-BF68-4E19-9FD0-BEC072B070BA</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/tenju88/MDV-Projects.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>AE3ADC42-BF68-4E19-9FD0-BEC072B070BA</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>AE3ADC42-BF68-4E19-9FD0-BEC072B070BA</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MDV-Projects</string>
+		</dict>
+	</array>
+</dict>
+</plist>
